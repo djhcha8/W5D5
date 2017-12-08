@@ -1,0 +1,35 @@
+/* PHASE 5: Cats */
+.content-header {
+  position: relative;
+  height: 300px;
+  width: 100%;
+  background: url("https://hips.hearstapps.com/cos.h-cdn.co/assets/15/25/480x240/landscape-1434377454-screen-shot-2015-06-15-at-101025-am.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  /*display: flex;*/
+}
+
+.content-h {
+  position: absolute;
+  color: white;
+  /*width: 100%;*/
+  /*height: auto;*/
+  text-shadow: 2px 2px black;
+  /*text-align: center;
+  margin-top: 20%;*/
+  bottom: 20px;
+  left: 200px;
+  font-size: 40px;
+}
+
+.content-b {
+  border: 1px solid black;
+  padding: 10px;
+  font-size: 16px;
+  font-weight: bold;
+  color: black;
+  background-color: white;
+  position: absolute;
+  right: 20px;
+  bottom: 20px; 
+}
